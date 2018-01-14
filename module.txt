@@ -1,0 +1,9 @@
+{
+    "id" : "2kStructures",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "",
+    "displayName" : "2kStructures",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
