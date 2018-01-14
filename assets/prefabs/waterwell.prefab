@@ -1,0 +1,45 @@
+{
+    "StructureTemplate": {
+    },
+    "SpawnBlockRegions": {
+        "regionsToFill": [
+            { "blockType": "core:Torch.BACK", "region": { "min": [-1, 3, 5], "size": [1, 1, 1]}},
+            { "blockType": "core:Torch.BACK", "region": { "min": [2, 3, 5], "size": [1, 1, 1]}},
+            { "blockType": "core:Torch.FRONT", "region": { "min": [-1, 3, 0], "size": [1, 1, 1]}},
+            { "blockType": "core:Torch.FRONT", "region": { "min": [2, 3, 0], "size": [1, 1, 1]}},
+            { "blockType": "core:Torch.LEFT", "region": { "min": [-2, 3, 1], "size": [1, 1, 1]}},
+            { "blockType": "core:Torch.LEFT", "region": { "min": [-2, 3, 4], "size": [1, 1, 1]}},
+            { "blockType": "core:Torch.RIGHT", "region": { "min": [3, 3, 1], "size": [1, 1, 1]}},
+            { "blockType": "core:Torch.RIGHT", "region": { "min": [3, 3, 4], "size": [1, 1, 1]}},
+            { "blockType": "core:brick", "region": { "min": [-1, 0, 1], "size": [4, 1, 1]}},
+            { "blockType": "core:brick", "region": { "min": [-1, 1, 1], "size": [1, 2, 1]}},
+            { "blockType": "core:brick", "region": { "min": [2, 1, 1], "size": [1, 2, 1]}},
+            { "blockType": "core:brick", "region": { "min": [-1, 0, 2], "size": [1, 1, 2]}},
+            { "blockType": "core:brick", "region": { "min": [0, 3, 2], "size": [2, 1, 2]}},
+            { "blockType": "core:brick", "region": { "min": [2, 0, 2], "size": [1, 1, 2]}},
+            { "blockType": "core:brick", "region": { "min": [-1, 0, 4], "size": [4, 1, 1]}},
+            { "blockType": "core:brick", "region": { "min": [-1, 1, 4], "size": [1, 2, 1]}},
+            { "blockType": "core:brick", "region": { "min": [2, 1, 4], "size": [1, 2, 1]}},
+            { "blockType": "core:brick:engine:eighthBlock", "region": { "min": [0, 1, 1], "size": [2, 1, 1]}},
+            { "blockType": "core:brick:engine:eighthBlock", "region": { "min": [-1, 1, 2], "size": [1, 1, 2]}},
+            { "blockType": "core:brick:engine:eighthBlock", "region": { "min": [2, 1, 2], "size": [1, 1, 2]}},
+            { "blockType": "core:brick:engine:eighthBlock", "region": { "min": [0, 1, 4], "size": [2, 1, 1]}},
+            { "blockType": "core:brick:engine:halfSlopeCorner.BACK", "region": { "min": [0, 4, 3], "size": [1, 1, 1]}},
+            { "blockType": "core:brick:engine:halfSlopeCorner.FRONT", "region": { "min": [1, 4, 2], "size": [1, 1, 1]}},
+            { "blockType": "core:brick:engine:halfSlopeCorner.LEFT", "region": { "min": [0, 4, 2], "size": [1, 1, 1]}},
+            { "blockType": "core:brick:engine:halfSlopeCorner.RIGHT", "region": { "min": [1, 4, 3], "size": [1, 1, 1]}},
+            { "blockType": "core:brick:engine:upperHalfSlope.BACK", "region": { "min": [0, 3, 4], "size": [2, 1, 1]}},
+            { "blockType": "core:brick:engine:upperHalfSlope.FRONT", "region": { "min": [0, 3, 1], "size": [2, 1, 1]}},
+            { "blockType": "core:brick:engine:upperHalfSlope.LEFT", "region": { "min": [-1, 3, 2], "size": [1, 1, 2]}},
+            { "blockType": "core:brick:engine:upperHalfSlope.RIGHT", "region": { "min": [2, 3, 2], "size": [1, 1, 2]}},
+            { "blockType": "core:brick:engine:upperHalfSlopeCorner.BACK", "region": { "min": [-1, 3, 4], "size": [1, 1, 1]}},
+            { "blockType": "core:brick:engine:upperHalfSlopeCorner.FRONT", "region": { "min": [2, 3, 1], "size": [1, 1, 1]}},
+            { "blockType": "core:brick:engine:upperHalfSlopeCorner.LEFT", "region": { "min": [-1, 3, 1], "size": [1, 1, 1]}},
+            { "blockType": "core:brick:engine:upperHalfSlopeCorner.RIGHT", "region": { "min": [2, 3, 4], "size": [1, 1, 1]}},
+            { "blockType": "core:water", "region": { "min": [0, -1, 2], "size": [2, 2, 2]}},
+            { "blockType": "engine:air", "region": { "min": [0, 2, 1], "size": [2, 1, 1]}},
+            { "blockType": "engine:air", "region": { "min": [-1, 2, 2], "size": [4, 1, 2]}},
+            { "blockType": "engine:air", "region": { "min": [0, 2, 4], "size": [2, 1, 1]}}
+        ]
+    }
+}
